@@ -90,7 +90,7 @@ KryptoFix 1.0.0 deliberately focuses on a small, auditable core. The following f
 
 ## Installation
 
-1. Download the latest `KryptoFix-1.0.0.apk` from the [Releases](../../releases) page.
+1. Download the latest `KryptoFix-1.0.0.apk` from above, in the list, there is the .apk file for android 8 and newer.
 2. Optionally verify the checksum:
    ```bash
    sha256sum KryptoFix-1.0.0.apk
